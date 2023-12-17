@@ -4,7 +4,7 @@ A simple calendar application built with React and integrated with an API to man
 
 ## Live Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://github.com/VikashMaurya10/calender-event).
 
 
 ## Features
@@ -32,7 +32,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
 ```bash
-git clone 
+git clone https://github.com/VikashMaurya10/calender-event.git
 ```
   
 2. **Navigate to the project directory::**
